@@ -1,4 +1,6 @@
-![IEEE](https://img.shields.io/badge/IEEE-Published-red)
+
+![IEEE](https://img.shields.io/badge/IEEE-Published-red)    ![IoT](https://img.shields.io/badge/IoT-Project-green)
+
 
 # GPS-Based Power Theft Detection and Alert System using GSM
 
