@@ -2,8 +2,6 @@
 
 An IoT-based smart power theft detection system that identifies unauthorized electricity consumption, detects the theft location using GPS, and instantly alerts the Electricity Board through GSM communication.
 
----
-
 ## IEEE Conference Publication
 
 This project was presented and published in an IEEE International Conference.
@@ -32,7 +30,6 @@ IEEE
 
 https://ieeexplore.ieee.org/document/10368907
 
----
 
 ## Abstract
 
@@ -49,7 +46,6 @@ Whenever abnormal current consumption exceeding a predefined threshold is detect
 
 The proposed system enables faster identification of illegal power tapping and improves response time for electricity authorities.
 
----
 
 ## Features
 
@@ -61,7 +57,7 @@ The proposed system enables faster identification of illegal power tapping and i
 - Audible buzzer alert
 - Arduino Uno based
 - Low-cost IoT implementation
----
+
 
 ## System Architecture
 
@@ -90,8 +86,6 @@ SMS Alert
 Electricity Board
 ```
 
----
-
 ## Working Principle
 
 1. The ACS712 continuously measures current.
@@ -104,7 +98,6 @@ Electricity Board
    - GSM module sends an SMS containing the GPS location.
 4. Authorities receive the alert and can respond immediately.
 
----
 
 ## Results
 
@@ -117,7 +110,6 @@ The prototype successfully:
 - Sent SMS alerts through GSM
 - Automatically disconnected the power supply
 
----
 
 ## Applications
 
@@ -128,20 +120,17 @@ The prototype successfully:
 - Commercial Buildings
 - Utility Infrastructure
 
----
 
 ## Demo
 
 A demonstration video is available inside the `demo/` folder.
 
----
 
 ## Authors
 
 Tharani R.
 Published in collaboration with the co-authors listed in the IEEE conference paper.
 
----
 
 ## Citation
 
