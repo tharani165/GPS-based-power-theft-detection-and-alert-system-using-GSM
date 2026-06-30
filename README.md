@@ -1,3 +1,5 @@
+![IEEE](https://img.shields.io/badge/IEEE-Published-red)
+
 # GPS-Based Power Theft Detection and Alert System using GSM
 
 An IoT-based smart power theft detection system that identifies unauthorized electricity consumption, detects the theft location using GPS, and instantly alerts the Electricity Board through GSM communication.
@@ -110,7 +112,6 @@ The prototype successfully:
 - Sent SMS alerts through GSM
 - Automatically disconnected the power supply
 
-
 ## Applications
 
 - Smart Grid Monitoring
@@ -135,8 +136,6 @@ Published in collaboration with the co-authors listed in the IEEE conference pap
 ## Citation
 
 If you use this work, please cite the published IEEE conference paper.
-
----
 
 ## License
 
